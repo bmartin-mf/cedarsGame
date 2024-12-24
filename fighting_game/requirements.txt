@@ -1,0 +1,4 @@
+pygame==2.5.2
+black==23.11.0  # Code formatting
+pylint==3.0.2   # Code linting
+pytest==7.4.3   # Testing 
